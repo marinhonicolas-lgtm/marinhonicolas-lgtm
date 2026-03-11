@@ -11,14 +11,14 @@ O objetivo do sistema é sair mechendo no readme
 ( ) Finalizado  
 
 ## 🔨 Funcionalidades
-- __________________________________
-- __________________________________
-- __________________________________
+- Ajudar a entender como funciona o readme
+- Transformar nossas capacidades
+- Melhorar nosso conhecimento
 
 ## 💻 Tecnologias Utilizadas
-- __________________________________
-- __________________________________
-- __________________________________
+- github
+- internet
+- navegador
 
 ## 📁 Acesso ao Projeto
 O projeto pode ser acessado no meu repositório do GitHub.
